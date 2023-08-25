@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bruno Santos e Santos
+Desenvolvedor Frontend
 
-<!--
-**santosesantos/santosesantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Conecte-se comigo
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail)](mailto:bp.santosesantos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/santosesantos/)
 
-Here are some ideas to get you started:
+### Habilidades
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,java,kotlin,python,nodejs,nextjs,react,firebase,git&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santosesantos&theme=gotham&bg_color=00000000&show_icons=true&border_color=006D5B)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosesantos&theme=gotham&bg_color=00000000&border_color=006D5B&layout=compact)
