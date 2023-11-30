@@ -1,5 +1,5 @@
 # Bruno Santos e Santos
-Desenvolvedor Frontend & Android
+Desenvolvedor Front-end & Android
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail)](mailto:bp.santosesantos@gmail.com)
